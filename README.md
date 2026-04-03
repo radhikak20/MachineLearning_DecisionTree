@@ -5,6 +5,7 @@ As a Data scientist at the bank ,build a model that will help the marketing depa
 Objective
 To predict whether a liability customer will buy personal loans, to understand which customer attributes are most significant in driving purchases, and identify which segment of customers to target more.
 Steps followed are as follows
+
 Step 1-Define the problem and perform an Exploratory Data Analysis
 - Univariate analysis
 - Bivariate analysis
